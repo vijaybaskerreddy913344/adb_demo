@@ -1,3 +1,3 @@
 # adb_demo
 
-This project is used to deploy the higehere env using asset bundles.
+This project is used to deploy the code to higher env using databricks asset bundles.
